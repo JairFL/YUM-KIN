@@ -8,7 +8,7 @@ sonar.project.properties
 !**/src/main/**/target/
 !**/src/test/**/target/
 .DS_Store
-
+.idea
 .mvn/
 mvnw
 mvnw.cmd
@@ -22,7 +22,6 @@ mvnw.cmd
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
 *.iws
 *.iml
 *.ipr
