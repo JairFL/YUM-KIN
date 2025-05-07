@@ -3,7 +3,7 @@ target/
 sonar-scanner-4.5.0.2216-macosx/
 
 sonar.project.properties
-.target
+target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
